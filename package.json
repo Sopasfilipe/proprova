@@ -1,0 +1,19 @@
+{
+  "name": "exercise-generator",
+  "version": "1.0.0",
+  "description": "A simple exercise generator using GPT-3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "openai": "^0.6.2"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
