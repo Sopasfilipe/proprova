@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "body-parser": "^1.19.0",
-    "openai": "^4.31.0"
+    "openai": "https://github.com/openai/openai-node#v0.6.2"
   },
   "engines": {
     "node": ">=12.0.0"
